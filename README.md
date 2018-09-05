@@ -1,1 +1,2 @@
-# tensorflow-gpu-install-on-ubuntu-16.04
+# Tensorflow GPU install on ubuntu 16.04
+
